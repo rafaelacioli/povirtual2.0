@@ -1,0 +1,27 @@
+{
+    "name": "rafaelacioli/povirtual",
+    "description": "Planejamento Operacional Virtual",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Rafael Acioli",
+            "email": "acioli.rafael@gmail.com",
+            "role": "developer"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor" 
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        },
+        "files": [
+            "source/Config.php"
+        ]
+    },
+    "require": {
+        "coffeecode/datalayer": "2.0.0"
+    }
+}

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ZOR 01 e 02 + Z Emb e Dbq Pcp e Altn.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>RAMCEA 01</name>
+		<Placemark>
+			<name>Z Emb P Pcp (pesada) </name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-06-14T18:29:49Z</begin>
+					<end>2018-07-13T12:54:43Z</end>
+				</gx:TimeSpan>
+				<longitude>-45.38779058200811</longitude>
+				<latitude>-22.92133054448158</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04542621751008443</heading>
+				<tilt>38.05106946698277</tilt>
+				<range>2480.716430225432</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-45.38883089634255,-22.91829443763719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Z Dbq Pcp</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-06-14T18:29:49Z</begin>
+					<end>2018-07-13T12:54:43Z</end>
+				</gx:TimeSpan>
+				<longitude>-45.41913333044661</longitude>
+				<latitude>-23.05153335103531</latitude>
+				<altitude>0</altitude>
+				<heading>0.030058544222553</heading>
+				<tilt>2.370152664971368</tilt>
+				<range>55326.44963570422</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-45.65166666666666,-23.14833333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Z Dbq Altn</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-06-14T18:29:49Z</begin>
+					<end>2018-07-13T12:54:43Z</end>
+				</gx:TimeSpan>
+				<longitude>-45.58040505811475</longitude>
+				<latitude>-23.11284647559623</latitude>
+				<altitude>0</altitude>
+				<heading>0.06916157517711376</heading>
+				<tilt>0.6444235177510617</tilt>
+				<range>35167.25033631021</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-45.64666666666667,-23.13500000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Z Emb Pcp</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-06-14T18:29:49Z</begin>
+					<end>2018-07-13T12:54:43Z</end>
+				</gx:TimeSpan>
+				<longitude>-45.58040505811475</longitude>
+				<latitude>-23.11284647559623</latitude>
+				<altitude>0</altitude>
+				<heading>0.06916157517711376</heading>
+				<tilt>0.6444235177510617</tilt>
+				<range>35167.25033631021</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-45.42833333333333,-22.95,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Z Emb Altn</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-06-14T18:29:49Z</begin>
+					<end>2018-07-13T12:54:43Z</end>
+				</gx:TimeSpan>
+				<longitude>-45.42311939961499</longitude>
+				<latitude>-22.95879176723828</latitude>
+				<altitude>0</altitude>
+				<heading>0.02735081954667025</heading>
+				<tilt>7.989408779992397</tilt>
+				<range>11922.82827387503</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-45.41,-22.92666666666666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Document>
+			<name>RAMCEA APROVADA.kmz</name>
+			<open>1</open>
+			<StyleMap id="m_ylw-pushpin0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="msn_ylw-pushpin">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_ylw-pushpin</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_ylw-pushpin</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="s_ylw-pushpin0">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff7f0000</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl0">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff7f0000</color>
+					<width>3</width>
+				</LineStyle>
+			</Style>
+			<Style id="sh_ylw-pushpin">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff7f0000</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="sn_ylw-pushpin">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ff7f0000</color>
+					<width>3</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Folder>
+				<name>RAMCEA APROVADA</name>
+				<open>1</open>
+				<Placemark>
+					<name>ZOR 02</name>
+					<description>GND - 5000 FT</description>
+					<styleUrl>#msn_ylw-pushpin</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-45.65903884571982,-23.14818771946636,0 -45.64589782233553,-23.15409151925197,0 -45.63394594204399,-23.13272182000494,0 -45.64971026300923,-23.1258537202885,0 -45.65903884571982,-23.14818771946636,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ZOR 02</name>
+					<description>GND - 5000 FT</description>
+					<styleUrl>#m_ylw-pushpin0</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-45.40505261408191,-22.88930434584665,0 -45.37486426710754,-22.92322721285693,0 -45.43636756606438,-22.9597514215398,0 -45.4574798036336,-22.93238324551837,0 -45.40505261408191,-22.88930434584665,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Placemark>
+			<name>Z Emb P Altn (pesada) </name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-06-14T18:29:49Z</begin>
+					<end>2018-07-13T12:54:43Z</end>
+				</gx:TimeSpan>
+				<longitude>-45.41800277818606</longitude>
+				<latitude>-22.89599695258059</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03366548865746517</heading>
+				<tilt>38.07403843122482</tilt>
+				<range>6630.339731534516</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-45.40880355500252,-22.90418852741218,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

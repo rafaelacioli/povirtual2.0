@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cesium": "^1.103.0",
+    "cesium-entity-drag": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "json": "^11.0.0",
+    "mysql": "^2.18.1",
+    "ws": "^8.12.1"
+  }
+}

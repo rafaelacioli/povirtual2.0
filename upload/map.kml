@@ -1,0 +1,289 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark id="1">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Posto Observação Logístico</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>P O LOG</value></Data></ExtendedData>
+  <Point><coordinates>-48.227824,-19.258423</coordinates></Point></Placemark>
+<Placemark id="2">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>artilharia_antiaerea</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Elemento de Artilharia Antiaérea Norte</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Elm AAAe N</value></Data></ExtendedData>
+  <Point><coordinates>-48.234202,-19.226428</coordinates></Point></Placemark>
+<Placemark id="3">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>artilharia_antiaerea</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Elemento de Artilharia Antiaérea Noroeste</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Elm AAAe NO</value></Data></ExtendedData>
+  <Point><coordinates>-48.25122,-19.233619</coordinates></Point></Placemark>
+<Placemark id="4">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>artilharia_antiaerea</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Elemento de Artilharia Antiaérea Sudoeste</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Elm AAAe SO</value></Data></ExtendedData>
+  <Point><coordinates>-48.242736,-19.259549</coordinates></Point></Placemark>
+<Placemark id="5">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>artilharia_antiaerea</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Elemento de Artilharia Antiaérea Sul</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Elm AAAe S</value></Data></ExtendedData>
+  <Point><coordinates>-48.214713,-19.259801</coordinates></Point></Placemark>
+<Placemark id="6">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>artilharia_antiaerea</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Elemento de Artilharia Antiaérea Sudeste</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Elm AAAe SE</value></Data></ExtendedData>
+  <Point><coordinates>-48.200539,-19.249653</coordinates></Point></Placemark>
+<Placemark id="7">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>artilharia_antiaerea</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Elemento de Artilharia Antiaérea Sudeste Nordeste </value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Elm AAAe NE</value></Data></ExtendedData>
+  <Point><coordinates>-48.213892,-19.231338</coordinates></Point></Placemark>
+<Placemark id="8">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Posto de Reabastecimento de Aeronave 1</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>PRA 1</value></Data></ExtendedData>
+  <Point><coordinates>-48.20846,-19.235499</coordinates></Point></Placemark>
+<Placemark id="9">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Posto de Reabastecimento de Aeronave 2</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>PRA 2</value></Data></ExtendedData>
+  <Point><coordinates>-48.224947,-19.250531</coordinates></Point></Placemark>
+<Placemark id="10">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Base de Esquadrilha 1</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Base Esqda 1</value></Data></ExtendedData>
+  <Point><coordinates>-48.209799,-19.237813</coordinates></Point></Placemark>
+<Placemark id="11">
+<ExtendedData>
+  <Data name="escalao"><value>4</value></Data>
+  <Data name="aqs"><value>aviacao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Base de Esquadrilha 2</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Base Esqda 2</value></Data></ExtendedData>
+  <Point><coordinates>-48.222424,-19.250176</coordinates></Point></Placemark>
+<Placemark id="11">
+<ExtendedData>
+  <Data name="escalao"><value>4</value></Data>
+  <Data name="aqs"><value>aviacao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Base de Esquadrilha 3</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Base Esqda 3</value></Data></ExtendedData>
+  <Point><coordinates>-48.240498,-19.245574</coordinates></Point></Placemark>
+<Placemark id="13">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Área de Viaturas</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Área Vtr 1</value></Data></ExtendedData>
+  <Point><coordinates>-48.202075,-19.251058</coordinates></Point></Placemark>
+<Placemark id="14">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>ATU</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>ATU</value></Data></ExtendedData>
+  <Point><coordinates>-48.211144,-19.252163</coordinates></Point></Placemark>
+<Placemark id="30">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>B Esqda Mnt Sup</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>B Esqda Mnt Su</value></Data></ExtendedData>
+  <Point><coordinates>-48.217121,-19.245563</coordinates></Point></Placemark>
+<Placemark id="31">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>P Lav</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>P Lav</value></Data></ExtendedData>
+  <Point><coordinates>-48.209584,-19.25278</coordinates></Point></Placemark>
+<Placemark id="32">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>COL</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>COL</value></Data></ExtendedData>
+  <Point><coordinates>-48.211955,-19.252563</coordinates></Point></Placemark>
+<Placemark id="33">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>P Col Agua</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>P Col Água</value></Data></ExtendedData>
+  <Point><coordinates>-48.227519,-19.24573</coordinates></Point></Placemark>
+<Placemark id="34">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Adrm Cmp</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Adrm Cmp</value></Data></ExtendedData>
+  <Point><coordinates>-48.218038,-19.243618</coordinates></Point></Placemark>
+<Placemark id="35">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao_manutencao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Base Operações</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Base Op</value></Data></ExtendedData>
+  <Point><coordinates>-48.230823,-19.248805</coordinates></Point></Placemark>
+<Placemark id="36">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>comnunicacoes</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Pelotão de Comunicações</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>Pel Com</value></Data></ExtendedData>
+  <Point><coordinates>-48.243813,-19.245146</coordinates></Point></Placemark>
+<Placemark id="37">
+<ExtendedData>
+  <Data name="escalao"><value>1</value></Data>
+  <Data name="aqs"><value>aviacao</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>Centro de Instrução de Aviação do Exército</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>CIAvEx</value></Data></ExtendedData>
+  <Point><coordinates>-45.52341,-23.03969</coordinates></Point></Placemark>
+<Placemark id="38">
+<ExtendedData>
+  <Data name="escalao"><value>3</value></Data>
+  <Data name="aqs"><value>aviacao_empregogeral</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>1 Pelotão de Emprego Helicópteros de Emprego Geral</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>1 Pel EHEG</value></Data></ExtendedData>
+  <Point><coordinates>-48.1365966796874,-18.464467064894613</coordinates></Point></Placemark>
+<Placemark id="39">
+<ExtendedData>
+  <Data name="escalao"><value>3</value></Data>
+  <Data name="aqs"><value>aviacao_empregogeral</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>2 Pelotão de Emprego Helicópteros de Emprego Geral</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>2 Pel EHEG</value></Data></ExtendedData>
+  <Point><coordinates>-48.1247520446777,-18.464141415999656</coordinates></Point></Placemark>
+<Placemark id="40">
+<ExtendedData>
+  <Data name="escalao"><value>3</value></Data>
+  <Data name="aqs"><value>aviacao_empregogeral</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>3 Pelotão de Emprego Helicópteros de Emprego Geral</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>3 Pel EHEG</value></Data></ExtendedData>
+  <Point><coordinates>-48.11153411865234,-18.463652941498456</coordinates></Point></Placemark>
+<Placemark id="41">
+<ExtendedData>
+  <Data name="escalao"><value>3</value></Data>
+  <Data name="aqs"><value>aviacao_empregogeral</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>4 Pelotão de Emprego Helicópteros de Emprego Geral</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>4 Pel EHEG</value></Data></ExtendedData>
+  <Point><coordinates>-48.13659667968749,-18.47130554891256</coordinates></Point></Placemark>
+<Placemark id="42">
+<ExtendedData>
+  <Data name="escalao"><value>3</value></Data>
+  <Data name="aqs"><value>aviacao_empregogeral</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>5 Pelotão de Emprego Helicópteros de Emprego Geral</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>5 Pel EHEG</value></Data></ExtendedData>
+  <Point><coordinates>-48.124580383300774,-18.470817094808755</coordinates></Point></Placemark>
+<Placemark id="43">
+<ExtendedData>
+  <Data name="escalao"><value>3</value></Data>
+  <Data name="aqs"><value>aviacao_empregogeral</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>6 Pelotão de Emprego Helicópteros de Emprego Geral</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>6 Pel EHEG</value></Data></ExtendedData>
+  <Point><coordinates>-48.1111907958984,-18.470817094808755</coordinates></Point></Placemark>
+<Placemark id="44">
+<ExtendedData>
+  <Data name="escalao"><value>2</value></Data>
+  <Data name="aqs"><value>aviacao_ataque</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>4 Seção de Helicópteros de Ataque</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>4 Sec HAtq</value></Data></ExtendedData>
+  <Point><coordinates>-48.07780265808105,-18.488237764359052</coordinates></Point></Placemark>
+<Placemark id="45">
+<ExtendedData>
+  <Data name="escalao"><value>2</value></Data>
+  <Data name="aqs"><value>aviacao_ataque</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>3 Seção de Helicópteros de Ataque</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>3 Sec HAtq</value></Data></ExtendedData>
+  <Point><coordinates>-48.0864715576171,-18.48872616883183</coordinates></Point></Placemark>
+<Placemark id="46">
+<ExtendedData>
+  <Data name="escalao"><value>2</value></Data>
+  <Data name="aqs"><value>aviacao_ataque</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>2 Seção de Helicópteros de Ataque</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>2 Sec HAtq</value></Data></ExtendedData>
+  <Point><coordinates>-48.077630996704,-18.482376802113297</coordinates></Point></Placemark>
+<Placemark id="47">
+<ExtendedData>
+  <Data name="escalao"><value>2</value></Data>
+  <Data name="aqs"><value>aviacao_ataque</value></Data>
+  <Data name="situacao"><value>amigo</value></Data>
+  <Data name="nome"><value>1 Seção de Helicópteros de Ataque</value></Data>
+  <Data name="show"><value>false</value></Data>
+  <Data name="matricula"><value>1 Sec HAtq</value></Data></ExtendedData>
+  <Point><coordinates>-48.08638572692871,-18.48278381985623</coordinates></Point></Placemark></Document></kml>

@@ -1,0 +1,11 @@
+{
+  "name": "pov",
+  "version": "1.0.0",
+  "description": "Planejamento Operacional Virtual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seção de Ensino Assistido por Computador",
+  "license": "ISC"
+}
